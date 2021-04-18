@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar{
+    background: #a5a6a7;
+    width: 300px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo{
+    width: 300px;
+}
+
+.sidebar-title{
+    margin-top: 15px;
+    margin-left: 75px;
+    margin-right: 20px;
+}
+
+.handimg{
+    margin-top: 5px;  
+    width: 200px;
+    border-width: 2;
+    border-radius: 6%;  
+    border-style: solid;
+}
+
+.about-enot{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;  
+}
